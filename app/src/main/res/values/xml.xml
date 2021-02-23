@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EmployeeBadge">
+        <attr name="employeeName" format="string"/>
+        <attr name="employeeID" format="string"/>
+        <attr name="employeeTitle" format="string"/>
+    </declare-styleable>
+
+</resources>
